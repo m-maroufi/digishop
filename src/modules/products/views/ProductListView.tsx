@@ -4,7 +4,7 @@ import ProductList from '../components/ProductList';
 const ProductListView = () => {
   return (
     <div>
-      <ProductList></ProductList>
+      <ProductList />
     </div>
   );
 };
